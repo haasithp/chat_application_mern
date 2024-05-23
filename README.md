@@ -13,7 +13,7 @@ This is a real-time chat application developed using the MERN stack. It enables 
 ## Installation
 1. Clone the repository:
     ```
-    git clone <Repo URL>
+    git clone https://github.com/haasithp/chat_application_mern.git
     ```
 
 2. Navigate to the project directory:
